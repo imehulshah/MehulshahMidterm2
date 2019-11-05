@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MehulShahMidterm</string>
+    <string name="First_Name">First Name</string>
+    <string name="Last_Name">Last Name</string>
+    <string name="buttonOrder">Order</string>
+    <string name="Order">Order</string>
+    <string name="ViewAll">ViewAll</string>
+    <string name="Reset">Reset</string>
+    <string name="activity_list_heading">Orders</string>
+
+    <array name="types">
+        <item name="Cheese">Cheese</item>
+        <item name="Vegies">Vegie</item>
+        <item name="Meat">Meat</item>
+    </array>
+
+    <array name="choices">
+        <item name="Small">Small</item>
+        <item name="Medium">Medium</item>
+        <item name="Large">Large</item>
+    </array>
+
+    <array name="quantity">
+        <item name="One">"1"</item>
+        <item name="Two">"2"</item>
+        <item name="Three">"3"</item>
+        <item name="Four">"4"</item>
+        <item name="Five">"5"</item>
+    </array>
+
+</resources>

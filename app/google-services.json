@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "533406586606",
+    "firebase_url": "https://mehulshahmidterm-ca57c.firebaseio.com",
+    "project_id": "mehulshahmidterm-ca57c",
+    "storage_bucket": "mehulshahmidterm-ca57c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533406586606:android:3472fc5a22189942e685ff",
+        "android_client_info": {
+          "package_name": "com.mesh.mehulshahmidterm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533406586606-7uncktn6ccsd1nq7rpehendmoef20prf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mesh.mehulshahmidterm",
+            "certificate_hash": "4f263b3cae4ddb175af6263dd4c09a1e5a0eb6ff"
+          }
+        },
+        {
+          "client_id": "533406586606-4mk6029iqkmb5ai3m7av9h4no2harel5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFmU5A3ISGpa80dTSY9lspDOW570itw1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533406586606-4mk6029iqkmb5ai3m7av9h4no2harel5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
